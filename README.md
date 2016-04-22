@@ -8,8 +8,6 @@ Je cherche à comprendre ce qui se passe dans ce drôle d’être collectif qu�
 
 Je suis également membre du réseau *COOP-Group*, avec qui nous explorons diverses facettes de la coopération et de l’animation en groupe.
 
-![coop-group](
-
 ## Licence
 
 L’intégralité de ce dépôt est publiée sous Licence Creative Commons BY SA.
