@@ -1,7 +1,7 @@
 # Mon groupe s'essoufle 
 
 ![essouflement](https://github.com/coop-group/animer_communaute_1h_semaine/blob/master/media/burn-out.jpg?raw=true)
-* [Brian](https://www.flickr.com/photos/lincolnian/), CC-BY-SA *
+*[Brian](https://www.flickr.com/photos/lincolnian/), CC-BY-SA*
 
 **Le courrier des animateurs : pourquoi mon groupe s’essouffle ?**    
 
