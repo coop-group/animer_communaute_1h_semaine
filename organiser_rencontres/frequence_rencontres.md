@@ -1,5 +1,9 @@
 # Se rencontrer régulièrement
 
+![Fréquence](https://github.com/coop-group/animer_communaute_1h_semaine/blob/master/media/frenquence_rencontres.jpg)
+*[Cam Evans](https://www.flickr.com/photos/toastwarrior/), CC-BY-ND*
+
+
 Que l’on se rencontre en présentiel ou à distance, ces moments synchrones sont importants pour la vie de la communauté, même si tout le monde n’y participe pas. **Il est bon de prévoir ces rencontres régulièrement et de les planifier à l’avance pour faciliter la participation**. Certaines communautés se réunissent mensuellement, d’autres plus souvent ou moins souvent. A vous de choisir (idéalement en demandant l’avis de la communauté) le bon rythme en présentiel et à distance.
 
 **Les participants aux projets ouverts de la communauté peuvent également se réunir** de leur côté (souvent en présentiel) en plus des rencontres qui concernent l’ensemble de la communauté. Il faut dans ce cas, ne pas oublier d’indiquer ces dates au reste de la communauté afin de permettre à d’autres personnes de venir s’impliquer dans les projets.
