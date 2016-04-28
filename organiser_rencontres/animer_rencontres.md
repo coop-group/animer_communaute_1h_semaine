@@ -1,5 +1,8 @@
 # Animer une rencontre 
 
+![animer](https://github.com/coop-group/animer_communaute_1h_semaine/blob/master/media/animer_rencontres.jpg)
+*Thomas Wolff, CC-BY-SA*
+
 ## L’organisateur des rencontres
 
 **Lors d'une recontre, une difficulté est… de ne pas oublier de fixer une prochaine rencontre !** L’idéal est de fixer la prochaine date d’une fois sur l’autre mais tout le monde ne participe pas aux réunions et il est souvent préférable de faire le choix avec l’ensemble de la communauté. Il faut donc penser à chaque fois que nécessaire de lancer un sondage auprès de la communauté et d’en faire savoir le résultat avec le jour et l’heure de la ou des prochaine(s) rencontre(s).
