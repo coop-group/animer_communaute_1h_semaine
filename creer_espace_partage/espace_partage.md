@@ -14,6 +14,8 @@ Peut-être nous souvenons nous qu’il s’est dit quelque chose qui peut nous a
 
 ## L’espace de partage : une machine à remonter le temps
 
+![time_machine](https://github.com/coop-group/animer_communaute_1h_semaine/blob/master/media/time_machine.jpg)
+
 **La particularité des trois premières activités de la communauté que nous avons vues est qu’elles sont structurées en fonction du temps**. Pourtant, ce qui a été dit lors d’une réunion il y a deux ans pourrait très bien faire écho à ce qui s’est dit aujourd’hui dans la discussion ainsi qu’une autre information diffusées il y a une semaine.
 
 **L’espace de partage** **doit nous permettre de retrouver les informations classées par thèmes** et non plus en fonction du moment où elles ont été données : Si la communauté s’est intéressée par exemple à la cartographie de l’eau, nous pourrions regrouper à un même endroit les choses les plus importantes que nous avons dit sur ce sujet, il y a un an, un mois ou un jour. Nous pourrions même avoir un “point de départ” qui nous permettrait de retrouver facilement tous ces endroits où sont partagés ce qui est attaché à un thème (dans un livre, on parle de “sommaire” ou “d’index”pour retrouver les différentes parties).
