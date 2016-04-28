@@ -1,5 +1,9 @@
 # Se rencontrer... en présentiel ou à distance ?
 
+[présentiel ou distance](https://github.com/coop-group/animer_communaute_1h_semaine/blob/master/media/distance_ou_presentiel.jpg)
+*[Elias quezada](https://www.flickr.com/photos/elias-quezada/), CC-BY-SA*
+
+
 Nous pouvons **définir une rencontre comme un moment où une partie de la communauté (ou bien une équipe projet) se retrouve de façon synchrone un jour et une heure fixée pour une durée limitée.**
 
 Nous cherchons une communauté la plus vaste possible. Celle-ci peut être centrée sur un territoire (et dans ce cas il est souvent plus facile de se retrouver) ou sur une thématique. Dans ce cas, la communauté peut ne pas avoir de limite géographique[1]. Il n’est alors probablement pas possible ou trop coûteux alors de se réunir trop souvent dans un lieu. Heureusement la technologie nous permet aujourd’hui de nous réunir à distance.
