@@ -7,6 +7,7 @@ Nous pourrions partager les informations sur un grand tableau dans un lieu acces
 ## La gare de triage des services du groupe
 
 ![gare](https://github.com/coop-group/animer_communaute_1h_semaine/blob/master/media/gare_triage.jpg)
+*[Ben Brooksbank](https://commons.wikimedia.org/wiki/File:Feltham_Marshalling_Yard_geograph-2644999-by-Ben-Brooksbank.jpg), CC BY-SA*
 
 Ici nous sommes au royaume des "outils pull" c’est à dire des espaces en ligne où il faut que l’utilisateur vienne chercher l’information. Contrairement aux mail et autres outils push où l’information est directement délivrée dans la boite au lettre de l’utilisateur, le site web nécessite une démarche de la part de l’utilisateur pour aller chercher l’information. Mais **il complète parfaitement les autres activités de la communauté** (diffusion d’information, rencontres, discussions entre les rencontres) **en permettant de retrouver facilement n’importe quelle information, indépendamment du moment où elle a été proposée**.
 
