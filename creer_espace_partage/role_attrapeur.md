@@ -1,6 +1,8 @@
 # L'attrapeur : le gardien des trésors communs
 
 ![tresor](https://github.com/coop-group/animer_communaute_1h_semaine/blob/master/media/coffre_tresor.jpg)
+*[Tom Praison](https://www.flickr.com/photos/tommyclicks/), CC BY*
+
 
 Le groupe se réunit (ensemble et par petit groupe projet) et échange en continu, mais on ne peut être sûr qu’il conserve les trésors qui sont échangés ou produits lors de ses activités. C’est le rôle de “l’attrapeur[26]” de **prendre toutes les informations que l’on pourrait souhaiter retrouver, pour les classer et les mettre à disposition sur le lieu de partage accessible à tous de façon à y accéder facilement**. Il transforme donc les flux d’information dans le temps en informations stockées par thématique, que les informations soient issues des réunions ou des échanges en continu. Le fait de présenter de façon synthétique des informations de ce qui se dit permet même de créer des débats complexes en intelligence collective avec des grands groupes[27].
 
