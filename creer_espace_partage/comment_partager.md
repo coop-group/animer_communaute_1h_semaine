@@ -6,7 +6,9 @@ Nous pourrions partager les informations sur un grand tableau dans un lieu acces
 
 ## La gare de triage des services du groupe
 
-Ici nous sommes au royaume des “outils pull” c’est à dire des espaces en ligne où il faut que l’utilisateur vienne chercher l’information. Contrairement aux mail et autres outils push où l’information est directement délivrée dans la boite au lettre de l’utilisateur, le site web nécessite une démarche de la part de l’utilisateur pour aller chercher l’information. Mais **il complète parfaitement les autres activités de la communauté** (diffusion d’information, rencontres, discussions entre les rencontres) **en permettant de retrouver facilement n’importe quelle information, indépendamment du moment où elle a été proposée**.
+![gare](https://github.com/coop-group/animer_communaute_1h_semaine/blob/master/media/gare_triage.jpg)
+
+Ici nous sommes au royaume des "outils pull" c’est à dire des espaces en ligne où il faut que l’utilisateur vienne chercher l’information. Contrairement aux mail et autres outils push où l’information est directement délivrée dans la boite au lettre de l’utilisateur, le site web nécessite une démarche de la part de l’utilisateur pour aller chercher l’information. Mais **il complète parfaitement les autres activités de la communauté** (diffusion d’information, rencontres, discussions entre les rencontres) **en permettant de retrouver facilement n’importe quelle information, indépendamment du moment où elle a été proposée**.
 
 **Que doit-on trouver dans l’espace de partage de la communauté ?** A peu près tout, y compris les archives de ce qui a été échangé au cours des différentes activités :
 
@@ -22,4 +24,4 @@ Ici nous sommes au royaume des “outils pull” c’est à dire des espaces en 
 
 * **Les ressources publiques proposées par la communauté :** des guides et autres documents produits par la communauté ou certains de ses projets, des éléments de veille utiles dans le contexte du groupe ou même des ressources utiles produites par d’autres communautés.
 
-**Ces différentes pages peuvent faire appel à des services en ligne variés**, mais heureusement il est assez facile d’intégrer des pages web proposées par des sites différents soit en faisant des liens vers ces différentes pages depuis une page d’accueil qui nous offre ainsi une véritable gare de triage, soit mieux en intégrant directement certains services dans des pages du site afin d’unifier la présentation (on utilise pour cela des techniques appelées “widgets” ou “iframes”...).
+**Ces différentes pages peuvent faire appel à des services en ligne variés**, mais heureusement il est assez facile d’intégrer des pages web proposées par des sites différents soit en faisant des liens vers ces différentes pages depuis une page d’accueil qui nous offre ainsi une véritable gare de triage, soit mieux en intégrant directement certains services dans des pages du site afin d’unifier la présentation (on utilise pour cela des techniques appelées "widgets" ou "iframes"...).
