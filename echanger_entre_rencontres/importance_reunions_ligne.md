@@ -1,7 +1,7 @@
 # L'importance des réunions en ligne
 
 ![réunions en ligne](https://github.com/coop-group/animer_communaute_1h_semaine/blob/master/media/skype_conference.jpg?raw=true)
-*[Justin](https://www.flickr.com/photos/jmarty/), CC-BY-SA
+*[Justin](https://www.flickr.com/photos/jmarty/), CC-BY-SA*
 
 **Exemple : les réunions internationales et l’importance des échanges en ligne**
 
