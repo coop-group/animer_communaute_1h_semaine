@@ -1,6 +1,7 @@
 # Espace de partage : éviter les pièges
 
 ![piege](https://github.com/coop-group/animer_communaute_1h_semaine/blob/master/media/piege.jpg)
+*[royalty free](https://www.flickr.com/photos/99783447@N07/), CC BY*
 
 ## Superbe site ou simple page de notes ?
 
