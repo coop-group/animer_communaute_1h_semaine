@@ -1,5 +1,8 @@
 # Quel outil pour faciliter les échanges
 
+![toolbox](https://github.com/coop-group/animer_communaute_1h_semaine/blob/master/media/toolbox.jpg?raw=true)
+*[Daren](https://www.flickr.com/photos/usefulguy/), CC-BY-SA*
+
 > Il nous faut un outil, mais pas n’importe lequel!
 
 Il existe de nombreux outils en particulier sur internet (mais pas seulement). Il faut cependant qu’ils soient adaptés à ce que nous souhaitons en faire : faciliter les échanges ENTRE les rencontres synchrones :
