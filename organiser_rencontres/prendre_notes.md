@@ -1,5 +1,8 @@
 # Prendre des notes : barbant ou amusant ?
 
+![notes](https://github.com/coop-group/animer_communaute_1h_semaine/blob/master/media/prendre_notes.jpg)
+*[INPIVIC Family](https://www.flickr.com/photos/inpivic/), CC-BY*
+
 **Lors d’une réunion, il se dit des choses très intéressantes** grâce aux contributions des uns et des autres. 
 **Il s’y décide également des choix et des actions** qu’il sera nécessaire de suivre. Mais prendre des notes est un exercice souvent barbant. Il faut souvent être soit salarié soit très motivé pour le faire... Quant à lire le compte rendu, cela est souvent ennuyeux et il est difficile de s’y mettre si on n’y est pas contraint.
 
