@@ -1,21 +1,21 @@
 # Quelles informations partager ?
 
-**Il y a de nombreuses informations qui auraient avantage à être retrouvées facilement par chacun : **
+**Il y a de nombreuses informations qui auraient avantage Ã  Ãªtre retrouvÃ©es facilement par chacun :**
 
-* Tout d’abord celles qui concernent **les projets en cours** ainsi que les anciens projets ;
+* Tout dâ€™abord celles qui concernent **les projets en cours** ainsi que les anciens projets ;
 
-* Les informations sur **la communauté** elle-même qui sont utiles aux nouveaux (objectifs, charte ou règles de fonctionnement, foire aux questions…), mais sont également utiles aux membres actuels et généralement à toute personne qui veut en savoir plus ;
+* Les informations sur **la communautÃ©** elle-mÃªme qui sont utiles aux nouveaux (objectifs, charte ou rÃ¨gles de fonctionnement, foire aux questionsâ€¦), mais sont Ã©galement utiles aux membres actuels et gÃ©nÃ©ralement Ã  toute personne qui veut en savoir plus ;
 
-* **Des ressources complètes produites ailleurs** qui peuvent être utiles car elles concernent un projet, la communauté ou un encore thème qui intéresse les membres ;
+* **Des ressources complÃ¨tes produites ailleurs** qui peuvent Ãªtre utiles car elles concernent un projet, la communautÃ© ou un encore thÃ¨me qui intÃ©resse les membres ;
 
-* **Des éléments de veille rassemblés par la communauté** sur un sujet particulier ;
+* **Des Ã©lÃ©ments de veille rassemblÃ©s par la communautÃ©** sur un sujet particulier ;
 
-* **Des débats au sein de la communauté** sur un thème donné, un de ses projets ou son fonctionnement même ;
+* **Des dÃ©bats au sein de la communautÃ©** sur un thÃ¨me donnÃ©, un de ses projets ou son fonctionnement mÃªme ;
 
-On pourrait regrouper ces différents ensembles d’information en **deux grands domaines :**
+On pourrait regrouper ces diffÃ©rents ensembles dâ€™information en **deux grands domaines :**
 
-* **les actions en cours :** projets, débats, etc.
+* **les actions en cours :** projets, dÃ©bats, etc.
 
-* **les ressources :** documents de base de la communauté, ressources produites par un des projet, bilan d’un débat, documents de veilles et ressources externes et même les archives des anciens projets
+* **les ressources :** documents de base de la communautÃ©, ressources produites par un des projet, bilan dâ€™un dÃ©bat, documents de veilles et ressources externes et mÃªme les archives des anciens projets
 
-Le premier groupe permet de suivre ce qui se passe actuellement dans le groupe et le deuxième de trouver des informations utiles. **L’intérêt de séparer les “actions en cours” des “ressources” est de donner une indication de lecture aux personnes peu ou pas impliquées** : vont elles découvrir un document finalisé ou bien quelque chose de moins structuré en cours de construction ?
+Le premier groupe permet de suivre ce qui se passe actuellement dans le groupe et le deuxiÃ¨me de trouver des informations utiles. **Lâ€™intÃ©rÃªt de sÃ©parer les "actions en cours" des "ressources" est de donner une indication de lecture aux personnes peu ou pas impliquÃ©es** : vont elles dÃ©couvrir un document finalisÃ© ou bien quelque chose de moins structurÃ© en cours de construction ?
