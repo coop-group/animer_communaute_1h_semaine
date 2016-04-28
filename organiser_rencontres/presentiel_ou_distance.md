@@ -1,6 +1,6 @@
 # Se rencontrer... en présentiel ou à distance ?
 
-[présentiel ou distance](https://github.com/coop-group/animer_communaute_1h_semaine/blob/master/media/distance_ou_presentiel.jpg)
+![présentiel ou distance](https://github.com/coop-group/animer_communaute_1h_semaine/blob/master/media/distance_ou_presentiel.jpg)
 *[Elias quezada](https://www.flickr.com/photos/elias-quezada/), CC-BY-SA*
 
 
