@@ -1,6 +1,7 @@
 # L'attrapeur : le gardien des trésors communs
 
 ![tresor](https://github.com/coop-group/animer_communaute_1h_semaine/blob/master/media/coffre_tresor.jpg)
+
 *[Tom Praison](https://www.flickr.com/photos/tommyclicks/), CC BY*
 
 
